@@ -11,7 +11,9 @@
 🤩 Looking forward to contribute to the open-source ecosystem again!<br>
 
 ## Metrics
-
+<!--
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="50%">
 </p>
+-->
+![Metrics](./github-metrics.svg)
