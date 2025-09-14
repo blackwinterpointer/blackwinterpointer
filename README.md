@@ -7,5 +7,5 @@
 ⚙ Interested in Low-Level and System Programming, Compilers/Transpilers, Game Development, Mathematics, and AI.<br>
 🎓 Still studying in FITE (Faculty of Information Technology Engineering) of Damascus University.<br>
 🗣 Speaking Arabic (native) and English (fluent).<br>
-🎈 When not coding I enjoy reading stuff on Internet and going out for taking photos around where I live.<br>
+🎈 When not coding I enjoy reading stuff (from books and/or internet) and going out for taking photos around where I live.<br>
 🤩 Looking forward to contribute to the open-source ecosystem again!<br>
